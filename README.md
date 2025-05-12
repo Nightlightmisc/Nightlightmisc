@@ -1,5 +1,3 @@
-## About Me
-
 <details>
   <summary>Operating Systems</summary>
    ㅤㅤ<blank>
