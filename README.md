@@ -2,7 +2,7 @@
 
 <details>
   <summary>Operating Systems</summary>
-
+  
   Currently using:
   
   [![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) 
