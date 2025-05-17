@@ -12,7 +12,7 @@
 
 *I respect your taste, even though it's different from mine.
 
-** Best regards **
+**Best regards**
 
 Antlions being edgy.
 
