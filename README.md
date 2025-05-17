@@ -4,13 +4,8 @@
 - I'm a big fan of science fiction games.
 - I enjoy coding in my free time.
 - Synthwave is a really cool genre! It's got a great retro vibe, and it's perfect for driving!
-- I DON'T SLEEP TOO MUCH
-- What did the tea say to the coffee? [spoiler](Get some sun, moron.)[/spoiler]
-- C# and C/C++ are my favourite programming languages. (I'm not a senior)
 - I like zazubabyman
-- I use Arch btw. (and Windows)
-
-*I respect your taste, even though it's different from mine.
+- I use Manjaro btw.
 
 **Best regards,**
 `Antlions being edgy.`
