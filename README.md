@@ -12,8 +12,7 @@
 
 *I respect your taste, even though it's different from mine.
 
-**Best regards**
-
+**Best regards,**
 Antlions being edgy.
 
 Don't drink the water, they put something in it to make you forget. I don't even remember how I got here
