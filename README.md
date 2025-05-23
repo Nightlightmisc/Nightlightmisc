@@ -1,6 +1,6 @@
 <h1 align="center">---- GREETINGS ----</h1><p align="center">Welcome to my profile. It's literally nothing...</p>
 
-<h3 align="center"👤 INFORMATION</h3>
+<h3 align="center">👤 INFORMATION</h3>
 
 - I'm huge fan of rock and synthwave.
 - Nirvana, Black Sabbath, Green Day, and LP are my fav band so far.
