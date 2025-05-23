@@ -7,10 +7,6 @@
 - I like zazubabyman
 - I use Manjaro btw.
 
-<p><b>Best regards,
-Antlions being edgy.</p>
-
-
   **Currently using:**
   
  [![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) 
