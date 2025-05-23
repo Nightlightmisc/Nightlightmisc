@@ -7,8 +7,8 @@
 - I like zazubabyman
 - I use Manjaro btw.
 
-**Best regards,**
-<p>`Antlions being edgy.`</p>
+<p><b>Best regards,</b></p>
+<p>Antlions being edgy.</p>
 
 
   **Currently using:**
