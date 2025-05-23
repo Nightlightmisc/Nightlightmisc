@@ -1,6 +1,7 @@
 ## NIGHTLIGHTMISC
 
 <h3 align="center">INFORMATION</h3>
+
 - I'm huge fan of rock and synthwave.
 - Nirvana, Black Sabbath, Green Day, and LP are my fav band so far.
 - I'm a big fan of science fiction games.
