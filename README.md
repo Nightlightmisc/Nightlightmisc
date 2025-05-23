@@ -1,5 +1,5 @@
 <h1 align="center">---- GREETINGS ----</h1>
-<p>Welcome to my profile lol</p>
+<p align="center">Welcome to my profile lol</p>
 
 <h3 align="center">INFORMATION</h3>
 
