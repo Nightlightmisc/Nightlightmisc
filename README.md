@@ -1,4 +1,4 @@
-<h1 align="center">---- GREETINGS ----</h1><p align="center">Welcome to my profile...</p>
+<h1 align="center">---- GREETINGS ----</h1>
 
 <h3 align="center">👤 INFORMATION</h3>
 
