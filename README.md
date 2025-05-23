@@ -1,6 +1,6 @@
 <h3 align="center">INFORMATION</h3>
 
-# kkkk
+### ......
 
 - I'm huge fan of rock and synthwave.
 - Nirvana, Black Sabbath, Green Day, and LP are my fav band so far.
