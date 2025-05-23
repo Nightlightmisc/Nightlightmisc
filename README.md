@@ -10,7 +10,7 @@
 - I like zazubabyman
 - I use Manjaro btw.
 
-<h3 align="center">DEVICE</h3>
+<h3 align="center">CURRENTLY USING</h3>
 
  [![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) 
 
