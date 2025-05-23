@@ -8,7 +8,7 @@
 - I use Manjaro btw.
 
 <p><b>Best regards,</b></p>
-<p>Antlions being edgy.</p>
+<p color="red">Antlions being edgy.</p>
 
 
   **Currently using:**
