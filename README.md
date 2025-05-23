@@ -1,5 +1,4 @@
 <h1 align="center">---- GREETINGS ----</h1>
-
 <h3 align="center">👤 INFORMATION</h3>
 
 - I'm huge fan of rock and synthwave.
