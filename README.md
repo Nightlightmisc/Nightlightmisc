@@ -13,7 +13,7 @@ Pronouns: He/Him
 Location: Come as you are... No I don't have gun.
 Frameworks: .NET
 Languages: CSharp, TypeScript, HTML, CSS, JavaScript
-Currently Playing: VθJ & Narvent - Lost Memory
+Now Playing: VθJ & Narvent - Lost Memory
 Hobbies: Cooking, gardening...
 Stars: Guess how much?
 ```
