@@ -4,7 +4,7 @@
 
 <img align="left" src="https://preview.redd.it/silly-rdr-images-v0-aqxxvonny34e1.jpg?width=1080&crop=smart&auto=webp&s=650237a9124556e3002fd33a424ab6593c7e50f8" alt="Thanks to this guy as well! (https://www.reddit.com/r/reddeadredemption/comments/1h3n1zi/silly_rdr_images/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)" width="320" /> 
 
-```css
+```ruby
 nightlightmisc@github
 -------------------------
 OS: Manjaro Linux x86_64
@@ -12,12 +12,13 @@ Shell: bash 5.2.37
 Pronouns: He/Him
 Location: Come as you are... No I don't have gun.
 Frameworks: .NET
-Languages: C#, TypeScript, HTML, CSS, JavaScript
-Music: OneRepublic - I Ain't Worried (99 Heroes)
+Languages: CSharp, TypeScript, HTML, CSS, JavaScript
+Currently Playing: VθJ & Narvent - Lost Memory
 Hobbies: Cooking, gardening...
 Stars: Guess how much?
 ```
-<h1 align="center">---------------------------------------------------</h1>
+<p align="center">/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\</p>
+<p align="center">--------------------------------------------------------------------------</p>
 <h1 align="center">---- GREETINGS ----</h1>
 <h3 align="left">👤 | INFORMATION</h3>
 
