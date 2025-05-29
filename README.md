@@ -18,7 +18,10 @@ Hobbies: Cooking, gardening...
 Stars: Guess how much?
 ```
 
-<h1> BLANK </h1>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
 
 
 <p align="center">/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\</p>
