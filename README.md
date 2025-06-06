@@ -7,7 +7,7 @@
 ```ruby
 nightlightmisc@github
 -------------------------
-OS: Fedora Linux x86_64
+OS: Arch Linux x86_64
 Shell: bash 5.2.37
 Pronouns: He/Him
 Location: Come as you are... No I don't have gun.
@@ -36,7 +36,7 @@ Stars: Guess how much?
 - Nirvana, Black Sabbath, Green Day, and LP are my fav band so far.
 - Synthwave is a really cool genre!
 - I like zazubabyman
-- I use Fedora btw.
+- I use Arch btw.
 
 > [!IMPORTANT]
 > This is a special repository (said by GitHub). It will become public and appear on my profile. Everyone can see it as well unless I set this repo to private. A bit reminder that I wrote this text as additional. Which is... umm... not empty. Oh wait, it just work.
