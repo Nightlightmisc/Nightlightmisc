@@ -10,7 +10,7 @@ nightlightmisc@github
 OS: Arch Linux x86_64
 Shell: bash 5.2.37
 Pronouns: He/Him
-Location: Come as you are... No I don't have gun.
+Location: Inside my house
 Frameworks: .NET
 Languages: CSharp, TypeScript, HTML, CSS, JavaScript
 Now Playing: VθJ & Narvent - Lost Memory
@@ -43,7 +43,7 @@ Stars: Guess how much?
 
 <h3 align="left">💡 | OPERATING SYSTEMS</h3>
 
-![Static Badge](https://img.shields.io/badge/Fedora-for?style=for-the-badge&logo=fedora&logoColor=white&logoSize=32x32&label=os&labelColor=%23212121&color=%232a2b2b)
+![Static Badge](https://img.shields.io/badge/Arch-for?style=for-the-badge&logo=arch&logoColor=white&logoSize=32x32&label=os&labelColor=%23212121&color=%232a2b2b)
 ![Static Badge](https://img.shields.io/badge/Windows-for?style=for-the-badge&logo=windows&logoColor=white&logoSize=32x32&label=OS&labelColor=%23060033&color=%235e7ddc)
 ![Static Badge](https://img.shields.io/badge/Android-for?style=for-the-badge&logo=android&logoColor=white&logoSize=32x32&label=os&labelColor=%231d7362&color=%23248f7a)
 
