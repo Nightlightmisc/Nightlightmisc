@@ -1,5 +1,5 @@
-```zsh
-> neofetch
+```bash
+> fastfetch
 ```
 
 <img align="left" src="https://preview.redd.it/silly-rdr-images-v0-aqxxvonny34e1.jpg?width=1080&crop=smart&auto=webp&s=650237a9124556e3002fd33a424ab6593c7e50f8" alt="Thanks to this guy as well! (https://www.reddit.com/r/reddeadredemption/comments/1h3n1zi/silly_rdr_images/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)" width="320" /> 
