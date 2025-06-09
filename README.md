@@ -39,7 +39,7 @@ Stars: Guess how much?
 - I use Arch btw.
 
 > [!IMPORTANT]
-> This is a special repository (said by GitHub). It will become public and appear on my profile. Everyone can see it as well unless I set this repo to private. A bit reminder that I wrote this text as additional. Which is... umm... not empty. Oh wait, it just work.
+> This is a special repository (said by GitHub). It will become public and appear on my profile. Everyone can see it as well unless I set this repo to private. A bit reminder that I wrote this text as additional.
 
 <h3 align="left">💡 | OPERATING SYSTEMS</h3>
 
