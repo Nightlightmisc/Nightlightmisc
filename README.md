@@ -41,7 +41,7 @@ Stars: what is we rewrite the... <----
 
 <h3 align="left">💡 | OPERATING SYSTEMS</h3>
 
-![Static Badge](https://img.shields.io/badge/Arch-for?style=for-the-badge&logo=manjaro&logoColor=white&logoSize=32x32&label=os&labelColor=%23212121&color=%232a2b2b)
+![Static Badge](https://img.shields.io/badge/Manjaro-for?style=for-the-badge&logo=manjaro&logoColor=white&logoSize=32x32&label=os&labelColor=%23212121&color=%232a2b2b)
 ![Static Badge](https://img.shields.io/badge/Windows-for?style=for-the-badge&logo=windows&logoColor=white&logoSize=32x32&label=OS&labelColor=%23060033&color=%235e7ddc)
 ![Static Badge](https://img.shields.io/badge/Android-for?style=for-the-badge&logo=android&logoColor=white&logoSize=32x32&label=os&labelColor=%231d7362&color=%23248f7a)
 
