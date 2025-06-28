@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://pin.it/4a4WgKcOZ" width="320" /> 
+<img align="left" src="https://pin.it/7mqHd0pBV" width="320" /> 
 
 ```ruby
 nightlightmisc@github
