@@ -15,7 +15,7 @@ Location: Inside my house
 Frameworks: .NET & Kotlin
 Languages: CSharp, TypeScript, HTML, CSS, JavaScript, Kotlin
 Now Playing: Come As You Are - Nirvana
-Hobbies: Cooking, gardening...
+Hobbies: Watching the rain
 Stars: Guess how much?
 ```
 
