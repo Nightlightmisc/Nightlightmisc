@@ -16,7 +16,7 @@ Frameworks: .NET & Kotlin
 Languages: CSharp, TypeScript, HTML, CSS, JavaScript, Kotlin
 Now_playing: Come As You Are - Nirvana
 Hobbies: Watching the rain
-Stars: Guess how much?
+Stars: what is we rewrite the... <----
 ```
 
 <p>ㅤ</p>
