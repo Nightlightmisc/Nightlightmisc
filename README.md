@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://github.com/Nightlightmisc/octosite/blob/b95a522eec77e3d9e5c93c1a31790fc9d4e2be86/49ec6403fe9f38f8c2d9322a4bdabe1b.jpg" width="320" /> 
+<img align="left" src="https://github.com/Nightlightmisc/octosite/blob/0ee218eebf506f179189d95dbf52836291fbc883/1000061327-2~3.jpg" width="320" /> 
 
 ```ruby
 nightlightmisc@github
