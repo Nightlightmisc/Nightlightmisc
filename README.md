@@ -4,7 +4,7 @@
 
 <img align="left" src="https://github.com/Nightlightmisc/octosite/blob/0ee218eebf506f179189d95dbf52836291fbc883/1000061327-2~3.jpg" width="320" /> 
 
-```sql
+```swift
 nightlightmisc@github
 -------------------------
 OS: Arch Linux x86_64
