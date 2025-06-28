@@ -14,7 +14,7 @@ Status: Alive
 Location: Inside my house
 Frameworks: .NET & Kotlin
 Languages: CSharp, TypeScript, HTML, CSS, JavaScript, Kotlin
-Now-playing: Come As You Are - Nirvana
+Now_playing: Come As You Are - Nirvana
 Hobbies: Watching the rain
 Stars: Guess how much?
 ```
