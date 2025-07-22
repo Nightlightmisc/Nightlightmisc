@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://github.com/Nightlightmisc/octosite/blob/0ee218eebf506f179189d95dbf52836291fbc883/1000061327-2~3.jpg" width="320" /> 
+<img align="left" src="https://github.com/Nightlightmisc/octosite/blob/c078b61277aad40150cbe00bd04a126d69c15e32/4ef8fffec8ed28e2dfb6965bbae2dd8d.jpg" width="320" /> 
 
 ```lua
 nightlightmisc@github
