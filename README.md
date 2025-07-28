@@ -9,7 +9,7 @@ nightlightmisc@github
 -------------------------
 OS: "Arch Linux x86_64"
 Shell: "bash 5.2.37"
-Pronouns: "He/Him (Pronouns should work here)"
+Pronouns: "(Pronouns should work here)"
 Status: "Alive"
 Location: "Inside my house"
 Frameworks: ".NET & Kotlin"
