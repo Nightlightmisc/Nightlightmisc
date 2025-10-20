@@ -7,14 +7,13 @@
 ```kt
 nightlightmisc@github
 -------------------------
-OS: "Arch Linux x86_64"
+OS: "NixOS 25.05 (Warbler) x86_64"
 Shell: "bash 5.2.37"
 Pronouns: "(Pronouns should work here)"
 Status: "Alive"
 Location: "Inside my house"
-Frameworks: "QT"
-Languages: "TypeScript, Java, Kotlin"
-Fav_music: "Come As You Are - Nirvana"
+Languages: "TypeScript, Kotlin"
+Fav_music: "No, I don't have a gun..."
 Hobbies: "Watching the rain"
-Stars: "what if we rewrite the..."
+Terminal: "Konsole"
 ```
