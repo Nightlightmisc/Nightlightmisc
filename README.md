@@ -2,7 +2,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://github.com/Nightlightmisc/Nightlightmisc/blob/0093595287e01ba53697571f001cc0a8879439af/9b9d76cb09ec19ff66958be32086b406.jpg" width="250"/> 
+<img align="left" src="https://github.com/Nightlightmisc/Nightlightmisc/blob/baa560990ed29edf879547b0ddfccd6aa2dd9066/fae95867e72fc3ebfb19a473cd6fc277.jpg" width="250"/> 
 
 ```kt
 nightlightmisc@github
